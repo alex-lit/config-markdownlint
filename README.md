@@ -16,15 +16,3 @@ npm i @alexlit/config-markdownlint -D
   "extends": "@alexlit/config-markdownlint/.markdownlint.json"
 }
 ```
-
-Some text.
-
-          # Indented code
-
-More text.
-
-```ruby
-  # Fenced code
-```
-
-More text.
