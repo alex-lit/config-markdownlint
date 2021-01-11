@@ -17,6 +17,14 @@ npm i @alexlit/config-markdownlint -D
 }
 ```
 
-- sadfasd fasd
-- dsafsadfs
-  - sadfasdfasdf
+Some text.
+
+          # Indented code
+
+More text.
+
+```ruby
+  # Fenced code
+```
+
+More text.

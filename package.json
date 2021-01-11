@@ -28,6 +28,7 @@
     "publish": "./scripts/publish.sh",
     "semver": "./scripts/semver.sh",
     "up": "./scripts/up.sh",
+    "lint": "./scripts/lint.sh",
     "version": "./scripts/version.sh"
   },
   "dependencies": {
