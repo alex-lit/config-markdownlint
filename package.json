@@ -25,11 +25,14 @@
     ".markdownlint.json"
   ],
   "scripts": {
-    "publish": "./scripts/publish.sh",
-    "semver": "./scripts/semver.sh",
-    "up": "./scripts/up.sh",
-    "lint": "./scripts/lint.sh",
-    "version": "./scripts/version.sh"
+    "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
+    "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
+    "lint:markdownlint": "./node_modules/@alexlit/lint-kit/scripts/lint.markdownlint.sh",
+    "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
+    "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
+    "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
+    "up": "./node_modules/@alexlit/lint-kit/scripts/up.sh",
+    "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
     "markdownlint": "^0.22.0",
