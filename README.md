@@ -13,6 +13,6 @@ npm i @alexlit/config-markdownlint -D
 ```json
 // .markdownlint.json
 {
-  "extends": "@alexlit/config-markdownlint/.markdownlint.json"
+  "extends": "./node_modules/@alexlit/config-markdownlint/.markdownlint.json"
 }
 ```

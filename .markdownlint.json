@@ -1,4 +1,5 @@
 {
+  "default": true,
   "code-block-style": { "style": "fenced" },
   "code-fence-style": { "style": "backtick" },
   "first-line-heading": false,
