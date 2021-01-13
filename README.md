@@ -1,4 +1,4 @@
-## Конфигурация MarkdownLint
+# Конфигурация MarkdownLint
 
 ## Установка
 

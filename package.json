@@ -20,9 +20,9 @@
   "maintainers": [
     "Alexey Litovchenko <alex.lit@outlook.com> (https://alexlit.gitlab.io)"
   ],
-  "main": ".markdownlint.json",
+  "main": ".markdownlintrc.js",
   "files": [
-    ".markdownlint.json"
+    ".markdownlintrc.js"
   ],
   "scripts": {
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
