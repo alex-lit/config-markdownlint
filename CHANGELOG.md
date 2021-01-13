@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/alex-lit/config-markdownlint/compare/v0.2.0...v0.2.1) (2021-01-13)
+
+
+### Bug Fixes
+
+* export js config ([21671e0](https://github.com/alex-lit/config-markdownlint/commit/21671e046468cd8ce9ead90835cbdcc2cef2a65c))
+
+
+
 # [0.2.0](https://github.com/alex-lit/config-markdownlint/compare/v0.0.2...v0.2.0) (2021-01-13)
 
 
