@@ -4,9 +4,9 @@ module.exports = {
   'code-fence-style': { style: 'backtick' },
   'first-line-heading': false,
   'line-length': {
-    strict: false,
-    headings: false,
     code_blocks: false,
+    headings: false,
+    strict: false,
     tables: false,
   },
   'no-inline-html': false,
