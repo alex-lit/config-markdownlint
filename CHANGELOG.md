@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/alex-lit/config-markdownlint/compare/v0.2.1...v0.2.2) (2021-01-27)
+
+
+### Bug Fixes
+
+* edit line-length rule ([e473224](https://github.com/alex-lit/config-markdownlint/commit/e47322445f2fbbff6f03c68d13e93e3aa406b791))
+
+
+
 ## [0.2.1](https://github.com/alex-lit/config-markdownlint/compare/v0.2.0...v0.2.1) (2021-01-13)
 
 
