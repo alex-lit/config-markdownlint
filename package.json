@@ -35,10 +35,10 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "markdownlint": "^0.22.0",
+    "markdownlint": "^0.23.0",
     "markdownlint-cli": "^0.26.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^0.9.0"
+    "@alexlit/lint-kit": "^0.23.0"
   }
 }
