@@ -1,3 +1,5 @@
+# [0.4.0](https://github.com/alex-lit/config-markdownlint/compare/v0.3.1...v0.4.0) (2021-03-03)
+
 ## [0.3.1](https://github.com/alex-lit/config-markdownlint/compare/v0.3.0...v0.3.1) (2021-02-12)
 
 # [0.3.0](https://github.com/alex-lit/config-markdownlint/compare/v0.2.2...v0.3.0) (2021-02-09)
