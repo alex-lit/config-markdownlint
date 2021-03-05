@@ -1,12 +1,12 @@
-# Конфигурация MarkdownLint
+# MarkdownLint Configuration
 
-## Установка
+## Installation
 
 ```sh
 npm i @alexlit/config-markdownlint -D
 ```
 
-## Подключение
+## Connection
 
 ```js
 // .markdownlintrc.js
