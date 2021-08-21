@@ -41,6 +41,6 @@
     "markdownlint-cli": "^0.28.1"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^25.1.0"
+    "@alexlit/lint-kit": "^29.2.3"
   }
 }
