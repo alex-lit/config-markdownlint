@@ -1,3 +1,5 @@
+# [0.7.0](https://github.com/alex-lit/config-markdownlint/compare/v0.6.0...v0.7.0) (2021-10-13)
+
 # 0.6.0 (2021-08-23)
 
 ### Bug Fixes
