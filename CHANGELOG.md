@@ -1,3 +1,17 @@
+# 0.8.0 (2021-11-22)
+
+### Bug Fixes
+
+- edit line-length rule
+  ([e473224](https://github.com/alex-lit/config-markdownlint/commit/e47322445f2fbbff6f03c68d13e93e3aa406b791))
+- export js config
+  ([21671e0](https://github.com/alex-lit/config-markdownlint/commit/21671e046468cd8ce9ead90835cbdcc2cef2a65c))
+
+### Features
+
+- use js config
+  ([5d15b5a](https://github.com/alex-lit/config-markdownlint/commit/5d15b5a185cce9d963c9c1860aeece3f9b6069d8))
+
 # [0.7.0](https://github.com/alex-lit/config-markdownlint/compare/v0.6.0...v0.7.0) (2021-10-13)
 
 # 0.6.0 (2021-08-23)
